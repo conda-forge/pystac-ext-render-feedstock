@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.0.0"
+  version: "2.0.1"
 
 package:
   name: pystac-ext-render
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-render/pystac_ext_render-${{ version }}.tar.gz
-  sha256: ed53926d0af556c98d5f6bbfd86b8d02d635df24b70607f37f386cea7713b4f7
+  sha256: 04e908e3571f83df2201da07c2b4ae5e6a7140fd202fdd5703907b1178b09f5c
 
 build:
   number: 0
